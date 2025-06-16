@@ -19,7 +19,8 @@
 
 ### DEMO 影片
 
-[打飛機最終釋出版 DEMO](https://youtu.be/qM8mDWAQ5ZM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qM8mDWAQ5ZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 
