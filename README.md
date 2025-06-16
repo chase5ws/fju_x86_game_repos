@@ -1,12 +1,13 @@
 # 打飛機最終釋出版 DEMO (Finally Demo)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+![version](https://img.shields.io/badge/version-3.0.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![platform](https://img.shields.io/badge/platform-x86-red)
 ![visualstudio](https://img.shields.io/badge/VisualStudio-2017%2F2019-purple)
-![GitHub issues](https://img.shields.io/github/issues/chase5ws/asc_discord_auto_ad)
-![GitHub stars](https://img.shields.io/github/stars/chase5ws/asc_discord_auto_ad)
-![GitHub forks](https://img.shields.io/github/forks/chase5ws/asc_discord_auto_ad)
+![GitHub issues](https://img.shields.io/github/issues/chase5ws/fju_x86_game_repos)
+![GitHub stars](https://img.shields.io/github/stars/chase5ws/fju_x86_game_repos)
+![GitHub forks](https://img.shields.io/github/forks/chase5ws/fju_x86_game_repos)
+![icon](asset/icon.png)
 
 ---
 
