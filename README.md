@@ -19,7 +19,7 @@
 
 ### DEMO 影片
 
-[![打飛機最終釋出版 DEMO](https://img.youtube.com/vi/qM8mDWAQ5ZM/0.jpg)](https://youtu.be/qM8mDWAQ5ZM)
+https://youtu.be/qM8mDWAQ5ZM
 
 
 
